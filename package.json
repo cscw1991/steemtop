@@ -1,0 +1,26 @@
+{
+  "name": "steemtop",
+  "version": "1.0.0",
+  "description": "Top like utility for watching a steem account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCrazyGM/steemtop.git"
+  },
+  "keywords": [
+    "steem"
+  ],
+  "author": "Michael Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCrazyGM/steemtop/issues"
+  },
+  "homepage": "https://github.com/TheCrazyGM/steemtop#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "steem": "^0.7.1"
+  }
+}
